@@ -216,7 +216,7 @@ image::images/ssb-sql-execution.png[width=800]
 +
 The data displayed on the screen is only a sample of the data returned by the query, not the full data.
 +
-image::images/ssb-sql-results.png[width=800]
+image::images/ssb-sql-results-2.png[width=800]
 
 . Check the job execution details and logs by clicking on *Console* (on the left bar) *> SQL Jobs* tab. Explore the options on this screen:
 +
